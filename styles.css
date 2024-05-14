@@ -370,6 +370,7 @@ skills .skills-container .skills-box img {
 
 
 
+
 .contact h2 {
     margin-bottom: 3rem;
 }
@@ -410,6 +411,10 @@ skills .skills-container .skills-box img {
     margin-top: 2rem;    
     cursor: pointer;
 }
+
+
+
+/* --------------------------------Footer----------------------------------- */
 
 .footer{
     display: flex;
